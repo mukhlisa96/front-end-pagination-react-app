@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front-end-pagination-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/front-end-pagination-react-app/static/js/main.aa6b2a43.js",
+    "index.html": "/front-end-pagination-react-app/index.html",
+    "main.073c9b0a.css.map": "/front-end-pagination-react-app/static/css/main.073c9b0a.css.map",
+    "main.aa6b2a43.js.map": "/front-end-pagination-react-app/static/js/main.aa6b2a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aa6b2a43.js"
+  ]
+}
